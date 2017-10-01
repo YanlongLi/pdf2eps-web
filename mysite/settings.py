@@ -27,7 +27,7 @@ SECRET_KEY = 'f-75j*#x@n05u8qxta^hiob_afat8e@f^0j2uk$75$314ehctk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'13.84.220.225']
+ALLOWED_HOSTS = [u'13.84.220.225', u'www.chemyhusky.com']
 
 
 # Application definition
